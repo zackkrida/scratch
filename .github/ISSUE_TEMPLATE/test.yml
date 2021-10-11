@@ -7,7 +7,7 @@ body:
     id: provider
     attributes:
       label: Provider API Endpoint / Documentation
-      description: <!-- Please provide links to the API endpoint, and any known documentation -->
+      description: Please provide links to the API endpoint, and any known documentation
     validations:
       required: true
   - type: input
